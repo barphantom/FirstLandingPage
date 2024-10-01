@@ -186,3 +186,13 @@ a {
   border: 2px solid white;
   background: dodgerblue;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: #1F2937;
+  color: white;
+  font-size: 13px;
+  font-weight: lighter;
+  padding: 10px 0;
+}
